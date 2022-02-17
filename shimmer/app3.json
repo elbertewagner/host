@@ -1,0 +1,57 @@
+{
+	
+	
+	  "ads":[
+	    {
+	      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+	      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+	      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+		  
+		   "FaceBanner":"IMG_16_9_APP_INSTALL#64552288328925",
+	      "FaceInterstitial":"IMG_16_9_APP_INSTALL#6455095835",
+	      "FaceNative":"IMG_16_9_APP_INSTALL#64559343232",
+		  	  
+	      "UnityGame":"4494135",
+	      "UnityInterstitial":"Interstitial_Android",
+		  "UnityBanner":"Banner_Android",
+		  
+		  "ApplovinInterstitial":"257c4a1b2f0c5afa",
+		  "ApplovinBanner":"62d7e0acce04c214",
+	
+	      "Switch":"fan"
+	 
+	    }
+	  ],
+	
+	
+	  "list": [
+	  {
+	     "title": "WELCOME",
+		  "image": "https://play-lh.googleusercontent.com/UxC4psvbENBJkz2vsW1PBF0sr_ojXEJghGtbn-_zXaYaXtWew2r0-WCqelMKIw1UhQ=w1920-h937",
+	      "description": " Welcome to Granny. How to get out of the house!"
+	
+	
+	    },
+	    {
+	      "title": "STEP 1",
+		  "image": "https://play-lh.googleusercontent.com/oHug3zji5Bg9YKwFqG-9VvOzc2if9TH6yLvO4vX1L5LeOL526sP0r7AY0zZ8w38j2wZ5=w1920-h937",
+	      "description": "Grab the pliers early  Most of the items in Granny have a single use, but not the pliers. They’re useful in three different parts of the house. Consider yourself lucky if you manage to find them early.  Here’s a list of what the pliers are for:      Cut the circuit box in the basement, unlocking one of the locks on the front door     Disable the alarm on the door     Turn off the fan upstairs, giving access to a key item  Once those tasks are complete, you can safely chuck the pliers and move on. "
+	
+	    },
+		
+		{
+	      "title": "STEP 2",
+		  "image": "https://play-lh.googleusercontent.com/KXUcG-CjkSGs-j0u0DZ3v2t4ZrnS_ETcUZGwgf-PWef1Y3LqzfPjrthQ22P6SOdDAZCn=w1920-h937",
+	      "description": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child, which begins to tear at the fabric of an otherwise peaceful community."
+	
+	    },
+		{
+	      "title": "STEP 3",
+		  "image": "https://play-lh.googleusercontent.com/JmQf4WDCC_huTvOF_-98TttIlxUkMe1T-S3PlwTv46fDL5GQU-W3sF4-CKqbqncnwbc=w1920-h937",
+	      "description": "Tentés pahttps://play-lh.googleusercontent.com/JmQf4WDCC_huTvOF_-98TttIlxUkMe1T-S3PlwTv46fDL5GQU-W3sF4-CKqbqncnwbc=w1920-h937r un prix alléchant en cas de victoire, des centaines de joueurs désargentés acceptent de s'affronter lors de jeux pour enfants aux enjeux mortels."
+	
+	    }
+	
+	  ]
+	
+	}
