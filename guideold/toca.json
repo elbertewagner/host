@@ -1,0 +1,77 @@
+{
+
+
+  "ads":[
+    {
+     
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+     
+      "FaceBanner":"IMG_16_9_APP_INSTALL#645522883286327_650760236095925",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FaceNative":"IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+	  
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+      "Link":"",
+
+      
+      "Switch":"admob"
+
+     
+	
+	  
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+	  
+	       
+
+    }
+  
+  ]
+  ,
+   "list": [
+    {
+      "title": "La Casa de Papel now has a Korean version",
+      "images": "https://img.filmsactu.net/datas/fiches/n/e/netflix/n/netflix-61e7d80e227d2.jpg",
+      "url": "h1.html"
+    },
+	
+    {
+      "title": "THE STORY OF THE SEQUEL BECOMES CLEARER",
+      "images": "https://images.bfmtv.com/amyZLyddDca8Z4Ts-LhT-o1XtCU=/120x2:1928x1019/1808x0/images/Avatar-2-de-James-Cameron-206319.jpg",
+      "url": "h2.html"
+
+    },
+	{
+      "title": "The Witcher: everything that",
+      "images": "https://www.numerama.com/wp-content/uploads/2021/09/the-witcher-serie.jpg",
+      "url": "h3.html"
+
+    },
+	{
+      "title": "Spider-Man No Way Home",
+      "images": "https://img.filmsactu.net/datas/films/s/p/spider-man-3-2021/xl/spider-man-3-2021-6124f779daa76.jpg",
+      "url": "h4.html"
+
+    },
+	{
+      "title": "Blacklight: Liam Neeson breaks faces and thinks",
+      "images": "https://img.filmsactu.net/datas/fiches/t/h/thriller/n/thriller-61d5743867dea.jpg",
+      "url": "h5.html"
+
+    },
+	{
+      "title": "Blacklight: Liam Neeson breaks faces and thinks",
+      "images": "https://img.filmsactu.net/datas/fiches/t/h/thriller/n/thriller-61d5743867dea.jpg",
+      "url": "h6.html"
+
+    }
+
+  ]
+ }
