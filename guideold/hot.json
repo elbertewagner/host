@@ -1,0 +1,77 @@
+{
+
+
+  "ads":[
+    {
+     
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+     
+      "FaceBanner":"IMG_16_9_APP_INSTALL#645522883286327_650760236095925",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FaceNative":"IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+	  
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+      "Link":"",
+
+      
+      "Switch":"admob"
+
+     
+	
+	  
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+	  
+	       
+
+    }
+  
+  ]
+  ,
+   "list": [
+    {
+      "title": "Poppy Playtime - Chapter 1",
+      "images": "https://i.ibb.co/6Nqyt6t/POPPY3.jpg",
+      "url": "h1.html"
+    },
+	
+    {
+      "title": "Poppy Playtime - Chapter 2",
+      "images": "https://i.ibb.co/gwcSwqf/POPPY2.jpg",
+      "url": "h2.html"
+
+    },
+	{
+      "title": "Poppy Playtime - Chapter 3",
+      "images": "https://i.ibb.co/MSvtmqp/POPPY1.jpg",
+      "url": "h3.html"
+
+    },
+	{
+      "title": "Poppy Playtime - Chapter 4",
+      "images": "https://i.ibb.co/MSvtmqp/POPPY1.jpg",
+      "url": "h4.html"
+
+    },
+	{
+      "title": "Poppy Playtime - Chapter 5",
+      "images": "https://i.ibb.co/MSvtmqp/POPPY1.jpg",
+      "url": "h5.html"
+
+    },
+	{
+      "title": "BPoppy Playtime - Chapter 6",
+      "images": "https://i.ibb.co/MSvtmqp/POPPY1.jpg",
+      "url": "h6.html"
+
+    }
+
+  ]
+ }
