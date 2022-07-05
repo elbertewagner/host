@@ -1,0 +1,48 @@
+{
+  "Ads": {
+    "AdMob": {
+      "activated": false,
+      "banner": "ca-app-pub-7187714252991230/5292044533",
+      "native": "ca-app-pub-7187714252991230/4026870804",
+      "interstitial": "ca-app-pub-7187714252991230/3978962860"
+    },
+    "FAN": {
+      "activated": true,
+      "banner": "645522883286327_654574779047804",
+      "native": "645522883286327_650760236095925",
+      "interstitial": "645522883286327_650761136095835"
+    },
+    "Mediation": {
+      "activated": false,
+      "banner": "ca-app-pub-627",
+      "native": "ca-app-pub-39402560",
+      "interstitial": "ca-app-pub-62735215"
+    },
+    "appLovin": {
+      "activated": false,
+      "banner": "62d7e0acce04c214",
+      "native": "257c4a1b2f0c5afa",
+      "interstitial": "257c4a1b2f0c5afa"
+    }
+  },
+  "TopApp": [
+  ],
+  "GuideContent": [
+    {
+      "image": "https://i.ibb.co/FnFYG1n/phone.png",
+      "description": "Before install Squiid Graany There is some steps that you need to follow at first, follow this quick guide."
+    },
+    {
+      "image": "https://i.ibb.co/FnFYG1n/phone.png",
+      "description": "As you may know Squiid is a Graany game so to play it you need at first install Squid Graany App Go to Play store and search for Squid Graany."
+    },
+    {
+      "image": "https://i.ibb.co/FnFYG1n/phone.png",
+      "description": "Now Click Install (If you have Roblox already installed skip this step)"
+    },
+    {
+      "image": "https://i.ibb.co/FnFYG1n/phone.png",
+      "description": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+    }
+  ]
+}
