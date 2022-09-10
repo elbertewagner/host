@@ -1,10 +1,11 @@
-{"ADS_STATION":[{
-  "face_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"face_interstital":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"face_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+{
+  "active": true,
+    "adsId": {
+   "banner" :"ca-app-pub-3940256099942544/6300978111",
+       "fullScreen" :"ca-app-pub-9361138964530035/2196071580",
+       "native" :"ca-app-pub-9361138964530035/7340587056",
+       "appOpenAds" :"ca-app-pub-3940256099942544/3419835294"
+  }
+  
+}
 
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_interstital":"ca-app-pub-9361138964530035/2196071580",
-"admob_nativeads":"ca-app-pub-9361138964530035/7340587056",
-"admob_or_face":"admob"
-}]}
