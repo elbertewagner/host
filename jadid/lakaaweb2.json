@@ -1,2 +1,10 @@
-{"Ads":{"AdMob":{"activated":true,"banner":"ca-app-pub-3940256099942544/109809898","native":"ca-app-pub-9361138964530035/7340587056","interstitial":"ca-app-pub-9361138964530035/2196071580"},"FAN":{"activated":false,"banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID","native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID","interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"},"Mediation":{"activated":false,"banner":"ca-app-pub-3940256099942544/6300978111","native":"ca-app-pub-3221609996891387/2364825103","interstitial":"ca-app-pub-3221609996891387/6035928068"}}}
+{"ADS_STATION":[{
+  "face_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"face_interstital":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"face_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
+"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+"admob_interstital":"ca-app-pub-9361138964530035/2196071580",
+"admob_nativeads":"ca-app-pub-9361138964530035/7340587056",
+"admob_or_face":"admob"
+}]}
