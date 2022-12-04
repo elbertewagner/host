@@ -1,0 +1,32 @@
+{
+
+
+  "data":[
+    {
+	 "APIStatus":"0",
+	"ServerURL":"https://foxvpnia.com/admin/api/api1.php",
+      "AdmobInterstitial":"ca-app-pub-4837921560839915/5823969528",
+      "AdmobBanner":"ca-app-pub-4837921560839915/2372681819",
+      "AdmobNative" : "ca-app-pub-4837921560839915/8746518471",
+      "AdmobOpen" : "ca-app-pub-4837921560839915/9373204432",
+	  
+      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286321399996095835",
+      "FanBanner":"IMG_16_9_APP_INSTALL#3669866948959868615629999065",
+      "FanNative" : "IMG_16_9_APP_INSTALL#6455228832863216299990499343232",
+	  	  
+      "UnityGame":"41",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+	    
+      "MaxInterstitial":"",
+      "MaxBanner":"",
+      "MaxNative" : "",
+               
+      "Switch":"admob"
+	  
+ 
+    }
+  ]
+
+
+}
