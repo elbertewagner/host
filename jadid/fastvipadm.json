@@ -5,10 +5,10 @@
     {
 	 "APIStatus":"0",
 	"ServerURL":"https://foxvpnia.com/admin/api/api1.php",
-      "AdmobInterstitial":"ca-app-pub-2442383614402256/4697943316",
-      "AdmobBanner":"ca-app-pub-2442383614402256/7100745372",
-      "AdmobNative" : "ca-app-pub-2442383614402256/3384861649",
-      "AdmobOpen" : "ca-app-pub-2442383614402256/5212948635",
+      "AdmobInterstitial":"ca-app-pub-8302328412508048/3065351347",
+      "AdmobBanner":"ca-app-pub-8302328412508048/8317678029",
+      "AdmobNative" : "ca-app-pub-8302328412508048/1093794122",
+      "AdmobOpen" : "ca-app-pub-8302328412508048/3528385773",
                
       "Switch":"admob"
 	  
