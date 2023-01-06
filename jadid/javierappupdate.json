@@ -5,19 +5,19 @@
     {
 	 "APIStatus":"0",
 	"ServerURL":"https://foxvpnia.com/admin/api/api1.php",
-      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
-      "AdmobInterstitial2":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobInterstitial":"ca-app-pub-9851456714955415/5907128332",
+      "AdmobInterstitial2":"ca-app-pub-9851456714955415/1780444395",
       "AdmobInterstitial3":"ca-app-pub-3940256099942544/1033173712",
-      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
-       "AdmobBanner2":"ca-app-pub-3940256099942544/6300978111",
-       "AdmobBanner3":"ca-app-pub-3940256099942544/6300978111",
-      "AdmobNative" : "ca-app-pub-3940256099942544/224769611",
-        "AdmobNative2" : "ca-app-pub-3940256099942544/224769611",
-        "AdmobNative3" : "ca-app-pub-3940256099942544/2247696110",
-      "AdmobOpen" : "ca-app-pub-3940256099942544/3419835294",
-            "AdmobOpen2" : "ca-app-pub-3940256099942544/3419835294",
+      "AdmobBanner":"ca-app-pub-9851456714955415/3451537140",
+       "AdmobBanner2":" ca-app-pub-9851456714955415/3692291869",
+       "AdmobBanner3":"ca-app-pub-9851456714955415/8114958462",
+      "AdmobNative" : "ca-app-pub-9851456714955415/5144974334",
+        "AdmobNative2" : "ca-app-pub-9851456714955415/5144974334",
+        "AdmobNative3" : "ca-app-pub-9851456714955415/1549550118",
+      "AdmobOpen" : "ca-app-pub-9851456714955415/5196945221",
+            "AdmobOpen2" : "ca-app-pub-9851456714955415/2682462525",
 
-            "AdmobOpen3" : "ca-app-pub-3940256099942544/3419835294",
+            "AdmobOpen3" : "ca-app-pub-9851456714955415/7044337808",
 
                
       "Switch":"admob"
