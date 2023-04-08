@@ -5,10 +5,10 @@
     {
 	 "APIStatus":"0",
 	"ServerURL":"https://secaros.com/smartvpn/api/api1.php",
-      "AdmobInterstitial":"ca-app-pub-4037522991778644/5765906300",
-      "AdmobBanner":"ca-app-pub-4037522991778644/6379277682",
-      "AdmobNative" : "ca-app-pub-4037522991778644/9940669627",
-      "AdmobOpen" : "ca-app-pub-9872249047266185/4521037585",
+      "AdmobInterstitial":"ca-app-pub-3779016414845415/2357144336",
+      "AdmobBanner":"ca-app-pub-3779016414845415/7127089437",
+      "AdmobNative" : "ca-app-pub-3779016414845415/5996134309",
+      "AdmobOpen" : "ca-app-pub-9872249047266185/4",
 	  
       "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286321399996095835",
       "FanBanner":"IMG_16_9_APP_INSTALL#3669866948959868615629999065",
