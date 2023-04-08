@@ -7,7 +7,7 @@
 	"ServerURL":"https://secaros.com/smartvpn/api/api1.php",
 
       "banner" : "banner",
-      "iterstitial" : "video",   
+      "iterstitial" : "Interstitial_Android",   
        "gameID" : "5236786",  
       "Switch":"unity"
 	  
