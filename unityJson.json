@@ -1,0 +1,19 @@
+{
+
+
+  "data":[
+    {
+	 "APIStatus":"0",
+	"ServerURL":"https://secaros.com/smartvpn/api/api1.php",
+
+      "banner" : "banner",
+      "iterstitial" : "video",   
+       "gameID" : "5236786",  
+      "Switch":"unity"
+	  
+ 
+    }
+  ]
+
+
+}
