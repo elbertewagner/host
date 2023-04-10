@@ -4,10 +4,10 @@
   "data":[
     {
 	 "APIStatus":"0",
-	"ServerURL":"https://foxvpnia.com/admin/api/api.php",
-      "AdmobInterstitial":"ca-app-pub-4837921560839915/3415901172",
+	"ServerURL":"https://secaros.com/smartvpn/api/api1.php",
+      "AdmobInterstitial":"ca-app-pub-3779016414845415/2357144336",
       "AdmobBanner":"ca-app-pub-4837921560839915/8668227858",
-      "AdmobNative" : "ca-app-pub-4837921560839915/9789737831",
+      "AdmobNative" : "ca-app-pub-3779016414845415/5996134309",
       "AdmobOpen" : "ca-app-pub-4837921560839915/4537411153",
                
       "Switch":"admob"
