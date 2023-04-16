@@ -5,14 +5,14 @@
     {
 	 "APIStatus":"0",
 	"ServerURL":"https://secaros.com/smartvpn/api/api1.php",
-      "AdmobInterstitial":"ca-app-pub-9872249047266185/9314402529",
-      "AdmobBanner":"ca-app-pub-9872249047266185/7239150946",
-      "AdmobNative" : "ca-app-pub-9872249047266185/4612987609",
-      "AdmobOpen" : "ca-app-pub-9872249047266185/2674092118",
+      "AdmobInterstitial":"Cca-app-pub-9872249047266185/9314402529",
+      "AdmobBanner":"Cca-app-pub-9872249047266185/7239150946",
+      "AdmobNative" : "Cca-app-pub-9872249047266185/4612987609",
+      "AdmobOpen" : "Cca-app-pub-9872249047266185/2674092118",
 	  
-      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286321399996095835",
-      "FanBanner":"IMG_16_9_APP_INSTALL#3669866948959868615629999065",
-      "FanNative" : "IMG_16_9_APP_INSTALL#6455228832863216299990499343232",
+      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522C883286321399996095835",
+      "FanBanner":"IMG_16_9_APP_INSTALL#366986C6948959868615629999065",
+      "FanNative" : "IMG_16_9_APP_INSTALL#645C5228832863216299990499343232",
 	  	  
       "UnityGame":"41",
       "UnityInterstitial":"Interstitial_Android",
