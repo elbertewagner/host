@@ -5,22 +5,22 @@
     {
 	 "APIStatus":"0",
 	"ServerURL":"https://foxvpnia.com/admin/api/api1.php",
-      "AdmobInterstitial":"ca-app-pub-3632788188126934/8461188183",
-      "AdmobBanner":"ca-app-pub-3632788188126934/4252966970",
-      "AdmobNative" : "ca-app-pub-3632788188126934/7148106517",
-      "AdmobOpen" : "ca-app-pub-3632788188126934/1610491763",
+      "AdmobInterstitial":"ca-app-pub-9872249047266185/9314402529",
+      "AdmobBanner":"ca-app-pub-9872249047266185/7239150946",
+      "AdmobNative" : "ca-app-pub-9872249047266185/4612987609",
+      "AdmobOpen" : "ca-app-pub-9872249047266185/2674092118",
 	  
       "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286321399996095835",
       "FanBanner":"IMG_16_9_APP_INSTALL#3669866948959868615629999065",
       "FanNative" : "IMG_16_9_APP_INSTALL#6455228832863216299990499343232",
 	  	  
-      "UnityGame":"45874751",
+      "UnityGame":"41",
       "UnityInterstitial":"Interstitial_Android",
       "UnityBanner":"Banner_Android",
 	    
-      "MaxInterstitial":"83458775",
-      "MaxBanner":"545454",
-      "MaxNative" : "5454544554",
+      "MaxInterstitial":"",
+      "MaxBanner":"",
+      "MaxNative" : "",
                
       "Switch":"admob"
 	  
