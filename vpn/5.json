@@ -6,27 +6,13 @@
 	 "APIStatus":"0",
 	"ServerURL":"https://secaros.com/smartvpn/api/api1.php",
       "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
-       "AdmobInterstitial2":"ca-app-pub-3940256099942544/1033173712",
-       "AdmobInterstitial3":"ca-app-pub-3940256099942544/1033173712",
-       "AdmobInterstitial4":"ca-app-pub-3940256099942544/1033173712",
-       "AdmobInterstitial5":"ca-app-pub-3940256099942544/1033173712",
-       "AdmobInterstitial6":"ca-app-pub-3940256099942544/1033173712",
-      "AdmobBanner1":"ca-app-pub-3940256099942544/6300978111",
-       "AdmobBanner2":"ca-app-pub-3940256099942544/6300978111",
-       "AdmobBanner3":"ca-app-pub-3940256099942544/6300978111",
-       "AdmobBanner4":"ca-app-pub-3940256099942544/6300978111",
-       "AdmobBanner5":"ca-app-pub-3940256099942544/6300978111",
-       "AdmobBanner6":"ca-app-pub-3940256099942544/6300978111",
-      
-      "AdmobNative1" : "ca-app-pub-3940256099942544/2247696110",
-        "AdmobNative2" : "ca-app-pub-3940256099942544/2247696110",
-        "AdmobNative3" : "ca-app-pub-3940256099942544/2247696110",
-        "AdmobNative4" : "ca-app-pub-3940256099942544/2247696110",
-        "AdmobNative5" : "ca-app-pub-3940256099942544/2247696110",
-        "AdmobNative6" : "ca-app-pub-3940256099942544/2247696110",
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative" : "ca-app-pub-3940256099942544/2247696110",
       "AdmobOpen" : "ca-app-pub-3940256099942544/3419835294",
                
       "Switch":"admob"
+	  
+ 
     }
   ]
 
