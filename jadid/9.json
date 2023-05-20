@@ -4,7 +4,7 @@
   "data":[
     {
 	 "APIStatus":"0",
-	"ServerURL":"https://secaros.store/smartvpn/api/api1.ph",
+	"ServerURL":"https://secaros.store/smartvpn/api/api1.php",
       "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
       "AdmobBanner":"ca-app-pub-3940256099942544/630097811",
       "AdmobNative" : "ca-app-pub-9872249047266185/3040112529",
