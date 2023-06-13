@@ -1,8 +1,10 @@
-{
-  "ads":{
-    "admobBanner" : "ca-app-pub-3632788188126934/1625712639",
-    "admobAppOpen" : "ca-app-pub-3632788188126934/1625712639",
-    "admobInter" : "ca-app-pub-3632788188126934/9504202659",
- "admobNative" : "ca-app-pub-3632788188126934/6878039315"
-  }
-}
+{"ADS_STATION":[{
+  "face_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"face_interstital":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"face_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+"admob_banner":"a-app-pub-3632788188126934/1625712639",
+"admob_interstital":"ca-app-pub-3632788188126934/9504202659",
+"admob_nativeads":"ca-app-pub-3632788188126934/6878039315",
+"admob_or_face":"face"
+}]}
