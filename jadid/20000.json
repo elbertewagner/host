@@ -1,7 +1,8 @@
 {
-
+  "ads":{
   "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInit": "ca-app-pub-3632788188126934/9504202659",
     "admobNative": "ca-app-pub-3632788188126934/6878039315",
    "appOpen": "ca-app-pub-3632788188126934/1625712639"
+  }
 }
