@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>موقع proxy بسيط</title>
+<style>
+  html, body {
+    margin: 0; padding: 0; height: 100%;
+  }
+  iframe {
+    width: 100%; height: 100vh; border: none;
+  }
+  #nav {
+    position: fixed; top: 10px; left: 10px; background: white;
+    padding: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    z-index: 1000;
+  }
+  #nav button {
+    margin-right: 5px; padding: 5px 10px;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+
+<div id="nav">
+  <button onclick="navigate('/')">الرئيسية</button>
+  <button onclick="navigate('/about')">حول</button>
+  <button onclick="navigate('/services')">خدمات</button>
+  <button onclick="navigate('/portfolio')">أعمالنا</button>
+  <button onclick="navigate('/contact')">اتصل بنا</button>
+</div>
+
+<iframe id="main-frame" src="https://www.imbdagency.com"></iframe>
+
+<script>
+  const baseUrl = "https://www.imbdagency.com";
+
+  function updateIframe() {
+    const path = window.location.pathname;
+    document.getElementById('main-frame').src = baseUrl + path;
+  }
+
+  function navigate(path) {
+    history.pushState(null, null, path);
+    updateIframe();
+  }
+
+  window.addEventListener('popstate', updateIframe);
+  window.addEventListener('DOMContentLoaded', updateIframe);
+</script>
+
+</body>
+</html>
