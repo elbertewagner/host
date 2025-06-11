@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Jun 2025 13:49:59 at https://scalix.es/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://scalix.es/ -O1 "C:\My Web Sites\scalix.agency12" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:50:39	Warning: 	Moved Permanently for https://scalix.es/?p=109
+13:50:39	Warning: 	File has moved from https://scalix.es/?p=109 to https://scalix.es/agency-account/
+13:50:39	Warning: 	Moved Permanently for https://scalix.es/?p=84
+13:50:39	Warning: 	File has moved from https://scalix.es/?p=84 to https://scalix.es/tiktok-agency/
+13:50:39	Warning: 	Moved Permanently for https://scalix.es/?p=147
+13:50:39	Warning: 	File has moved from https://scalix.es/?p=147 to https://scalix.es/ai-media/
+13:50:39	Warning: 	Moved Permanently for https://scalix.es/?p=15
+13:50:39	Warning: 	File has moved from https://scalix.es/?p=15 to https://scalix.es/cookie-policy/
+13:50:39	Warning: 	Moved Permanently for https://scalix.es/?p=17
+13:50:39	Warning: 	File has moved from https://scalix.es/?p=17 to https://scalix.es/privacy-policy/
+13:50:39	Warning: 	Moved Permanently for https://scalix.es/terms/
+13:50:39	Warning: 	File has moved from https://scalix.es/terms/ to https://scalix.es/terms-of-service/
+13:50:39	Error: 	"Forbidden" (403) at link https://scalix.es/privacy-policy/?preview_id=3&preview_nonce=8d30e67d90&preview=true&_thumbnail_id%5Bsrcset%5D=&_thumbnail_id%5Bsizes%5D= (from https://scalix.es/privacy-policy/)
+13:50:39	Error: 	"Not Found" (404) at link https://scalix.es/contact-us/ (from https://scalix.es/privacy-policy/)
+13:50:39	Warning: 	Moved Permanently for https://scalix.es/?p=19
+13:50:39	Warning: 	File has moved from https://scalix.es/?p=19 to https://scalix.es/terms-of-service/
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 seconds : 134 links scanned, 124 files written (9346651 bytes overall) [7956895 bytes received at 194070 bytes/sec], 1816021 bytes transferred using HTTP compression in 67 files, ratio 19%, 26.8 requests per connection
+(2 errors, 14 warnings, 0 messages)
